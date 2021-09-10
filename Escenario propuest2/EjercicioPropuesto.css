@@ -1,0 +1,27 @@
+#cabecera {
+    background: #ded6ba;
+    margin-left: 15px;
+    margin-right: 15px;
+    position: static;
+    width: 50;
+}
+#cabecera form h1 {
+    font-family: 'MS Gothic';
+    font-size: 50px;
+    text-align: center ;
+    font-weight:200;   
+}
+#cuerpo1 {
+    background: #94c39d;
+    height: 240px;
+    width: 500px;
+    margin-left: 30px;
+    border-radius: 6px;           
+}
+#cuerpo1 form h2 {
+    font-family: 'MS Gothic';
+    padding: 5px;
+    font-size: 40px;
+    text-align: center ;
+    font-weight:100;   
+}
